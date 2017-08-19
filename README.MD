@@ -1,0 +1,1 @@
+# Ignore Guild Quest Messages
